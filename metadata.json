@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream",
+  "description": "Sleek, premium, minimalist multimedia media extractor and transformer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
